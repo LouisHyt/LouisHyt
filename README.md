@@ -10,7 +10,7 @@
 
 ## 🌟 My Skills
 
-<details open>
+<details closed>
 <summary>🌐 - Web Development</summary>
 <br>
 	
@@ -32,7 +32,7 @@
   
 </details>
 
-<details open>
+<details closed>
 <summary>💾 - Softwares</summary>
 <br>
 	
