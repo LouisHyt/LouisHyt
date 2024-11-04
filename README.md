@@ -1,9 +1,8 @@
-# 👋 Hi there!
 <img width="100%" src="https://github.com/LouisHyt/LouisHyt/blob/main/github-intro-banner.png">
 
 ## 🧑‍💻 About Me
 
-- 📰 I'm Louis HAYOTTE and i'm 26!
+- 📰 I there! I'm Louis HAYOTTE and i'm 26!
 - 🌍 I live in France in the beautiful city of Strasbourg.
 - 🖥️ I'm currently learning web development at [Elan Formation](https://elan-formation.fr).
 - ⭐ Learn more about me : https://louishayotte.fr
