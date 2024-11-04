@@ -11,14 +11,15 @@
 
 ### 🌟 My Skills
 <details open>
-	<summary>Frontend</summary>
-	<br>
-	![Skill-icon](https://img.icons8.com/color/48/html-5--v1.png)
-	![Skill-icon](https://img.icons8.com/fluency/48/css3.png)
-	![Skill-icon](https://img.icons8.com/color/48/javascript--v1.png)
-	![Skill-icon](https://img.icons8.com/office/40/react.png)
-	![Skill-icon](https://img.icons8.com/doodle/48/svetle.png)
-	![Skill-icon](https://img.icons8.com/nolan/64/astro.png)
+<summary>Frontend</summary>
+<br>
+	
+![Skill-icon](https://img.icons8.com/color/48/html-5--v1.png)
+![Skill-icon](https://img.icons8.com/fluency/48/css3.png)
+![Skill-icon](https://img.icons8.com/color/48/javascript--v1.png)
+![Skill-icon](https://img.icons8.com/office/40/react.png)
+![Skill-icon](https://img.icons8.com/doodle/48/svetle.png)
+![Skill-icon](https://img.icons8.com/nolan/64/astro.png)
 
 </details>
 
