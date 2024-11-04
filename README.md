@@ -3,9 +3,10 @@
 ## 🧑‍💻 About Me
 
 - 📰 I'm Louis HAYOTTE and i'm 26!
-- 🌍 I live in France in the city of Strasbourg.
+- 🌍 I live in France in the beautiful city of Strasbourg.
 - 🖥️ I'm currently learning web development at [Elan Formation](https://elan-formation.fr).
-- 🚀 You can contact me at this address : contact@louishayotte.fr
+- ⭐ Learn more about me → https://louishayotte.fr
+- 📧 You can contact me at this address : contact@louishayotte.fr
 
 
 ## 🌟 My Skills
