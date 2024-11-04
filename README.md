@@ -20,11 +20,15 @@
 - <img align="center" height="48" src="https://img.icons8.com/office/48/react.png"> **React**
 - <img align="center" height="48" src="https://img.icons8.com/doodle/48/svetle.png"> **Svelte**
 - <img align="center" height="48" src="https://img.icons8.com/nolan/48/astro-js.png"> **Astro**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/tailwind_css.png"> **Tailwind**
 - <img align="center" height="48" src="https://img.icons8.com/color/48/typescript.png"> **Typescript**
 - <img align="center" height="48" src="https://img.icons8.com/fluency/48/node-js.png"> **Node.js**
 - <img align="center" height="48" src="https://img.icons8.com/nolan/48/php-logo.png"> **PHP**
 - <img align="center" height="48" src="https://img.icons8.com/fluency/48/express-js.png"> **Express.js**
 - <img align="center" height="48" src="https://img.icons8.com/color/48/symfony.png"> **Symphony**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/vite.png"> **Vite**
+- <img align="center" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"> **MySQL**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/supabase.png"> **Supabase**
 
 </details>
 
