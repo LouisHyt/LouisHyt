@@ -5,7 +5,7 @@
 - 📰 I there! I'm Louis HAYOTTE and i'm 26!
 - 🌍 I live in France in the beautiful city of Strasbourg.
 - 🖥️ I'm currently learning web development at [Elan Formation](https://elan-formation.fr).
-- 📫 I'm looking for an intership from from 04/10/25 to 05/17/25.
+- 📫 I'm looking for an intership from 04/10/25 to 05/17/25.
 - ⭐ Learn more about me : [louishayotte.fr](https://louishayotte.fr)
 - 📧 You can contact me at this address : contact@louishayotte.fr
 
