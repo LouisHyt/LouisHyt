@@ -19,7 +19,7 @@
 ![Skill-icon](https://img.icons8.com/color/48/javascript--v1.png)
 ![Skill-icon](https://img.icons8.com/office/40/react.png)
 ![Skill-icon](https://img.icons8.com/doodle/48/svetle.png)
-![Skill-icon](https://img.icons8.com/nolan/64/astro.png)
+![Skill-icon](https://img.icons8.com/nolan/48/astro.png)
 
 </details>
 
