@@ -29,6 +29,21 @@
 - <img align="center" height="48" src="https://img.icons8.com/color/48/vite.png"> **Vite**
 - <img align="center" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"> **MySQL**
 - <img align="center" height="48" src="https://img.icons8.com/color/48/supabase.png"> **Supabase**
+  
+</details>
+
+<details open>
+<summary>Sofwares</summary>
+<br>
+	
+- <img align="center" height="48" src="https://img.icons8.com/fluency/48/adobe-photoshop.png"> **Adobe Photoshop**
+- <img align="center" height="48" src="https://img.icons8.com/fluency/48/adobe-after-effects.png"> **Adobe After Effect**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/figma--v1.png"> **Figma**
+- <img align="center" height="48" src="https://img.icons8.com/fluency/48/ms-word.png"> **Microsoft Office Word**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png"> **Microsoft Office PowerPoint**
+- <img align="center" height="48" src="https://img.icons8.com/fluency/48/microsoft-teams-2019.png"> **Microsoft Office Teams**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/fl-studio.png"> **Fruity Loop Studio**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/davinci-resolve.png"> **Davinci Resolve**
 
 </details>
 
