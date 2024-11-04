@@ -14,12 +14,12 @@
 <summary>Frontend</summary>
 <br>
 	
-![Skill-icon](https://img.icons8.com/color/48/html-5--v1.png)
-![Skill-icon](https://img.icons8.com/fluency/48/css3.png)
-![Skill-icon](https://img.icons8.com/color/48/javascript--v1.png)
-![Skill-icon](https://img.icons8.com/office/40/react.png)
-![Skill-icon](https://img.icons8.com/doodle/48/svetle.png)
-![Skill-icon](https://img.icons8.com/nolan/48/astro.png)
+- <img align="center" height="48" src="https://img.icons8.com/color/48/html-5--v1.png"> **HTML**
+- <img align="center" height="48" src="https://img.icons8.com/fluency/48/css3.png"> **CSS**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/javascript--v1.png"> **JAVASCRIPT**
+- <img align="center" height="48" src="https://img.icons8.com/office/48/react.png"> **REACT**
+- <img align="center" height="48" src="https://img.icons8.com/doodle/48/svetle.png"> **SVELTE**
+- <img align="center" height="48" src="https://img.icons8.com/nolan/48/astro-js.png"> **ASTRO**
 
 </details>
 
