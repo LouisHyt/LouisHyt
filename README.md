@@ -30,6 +30,7 @@
 - <img align="center" height="48" src="https://img.icons8.com/color/48/vite.png"> **Vite**
 - <img align="center" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"> **MySQL**
 - <img align="center" height="48" src="https://img.icons8.com/color/48/supabase.png"> **Supabase**
+- <img align="center" height="48" src="https://img.icons8.com/fluency/48/github.png"> **Github**
   
 </details>
 
