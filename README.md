@@ -22,4 +22,14 @@
 - <img align="center" height="48" src="https://img.icons8.com/nolan/48/astro-js.png"> **ASTRO**
 
 </details>
+<details open>
+<summary>Backend</summary>
+<br>
+	
+- <img align="center" height="48" src="https://img.icons8.com/color/48/html-5--v1.png"> **Node.js**
+- <img align="center" height="48" src="https://img.icons8.com/fluency/48/css3.png"> **PHP**
+- <img align="center" height="48" src="https://img.icons8.com/color/48/javascript--v1.png"> **Express.js**
+- <img align="center" height="48" src="https://img.icons8.com/office/48/react.png"> **Symphony**
+
+</details>
 
