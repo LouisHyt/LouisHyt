@@ -7,7 +7,6 @@
 - 🖥️ I'm currently learning web development at [Elan Formation](https://elan-formation.fr).
 - 🚀 You can contact me at this address : contact@louishayotte.fr
 
---
 
 ## 🌟 My Skills
 
