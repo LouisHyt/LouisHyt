@@ -17,7 +17,7 @@
 <br>
 	
 - <img align="center" height="48" src="https://img.icons8.com/color/48/html-5--v1.png"> **HTML**
-- <img align="center" height="48" src="https://img.icons8.com/fluency/48/css3.png"> **CSS**
+- <img align="center" height="48" src="https://www.coywolf.news/wp-content/uploads/2024/11/purple-css-logo.webp"> **CSS**
 - <img align="center" height="48" src="https://img.icons8.com/color/48/javascript--v1.png"> **Javascript**
 - <img align="center" height="48" src="https://img.icons8.com/office/48/react.png"> **React**
 - <img align="center" height="48" src="https://www.electronjs.org/assets/img/logo.svg"> **Electron**
